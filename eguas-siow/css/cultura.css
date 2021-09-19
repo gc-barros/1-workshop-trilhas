@@ -428,9 +428,15 @@ body {
     .cardbox-1 img {
         width: 180px;
         margin-top: 8px;
+        opacity: 1;
     }
 
     .cardbox-2 img {
         width: 280px;
+        filter: none;
+    }
+
+    #pratos-tipicos .cardbox-2 img {
+        filter: none;
     }
 }
