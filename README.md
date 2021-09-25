@@ -1,5 +1,5 @@
 # 😯Éguas, Siow! 😳
-### ✨ Site desenvolvido durante o desafio do 1º Workshop Trilhas, com a finalidade de promover a cultura do estado Maranhão.
+### :sparkles: Site desenvolvido durante o desafio do 1º Workshop Trilhas, com a finalidade de promover a cultura do estado Maranhão.
 #### 🔗 Link: https://goofy-darwin-a9df09.netlify.app/
 ___
 
