@@ -3,7 +3,8 @@
 #### 🔗 Confira: https://eguassiow.netlify.app/
 <br>
 
-<a href="https://eguassiow.netlify.app/"><img alt="GIF 'Éguas, Siow!' website" src="https://media2.giphy.com/media/0Sb57Q9lhSDvlAWfPX/giphy.gif?cid=790b761141225f68ddeeee6935773bb257c85c40481b0bf7&rid=giphy.gif&ct=g"></a>
+<a href="https://eguassiow.netlify.app/"><img alt="GIF 'Éguas, Siow!' website" src="https://media1.giphy.com/media/NTTGMCRG3AgLEyXUpF/giphy.gif?cid=790b7611b4463df0f8a2f518978ea7bee1c110dda380e61c&rid=giphy.gif&ct=g"></a>
+
 ___
 
 
