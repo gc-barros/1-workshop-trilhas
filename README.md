@@ -1,5 +1,6 @@
 # 😯Éguas, Siow! 😳
 #### ✨ Site desenvolvido durante o desafio do 1º Workshop Trilhas, com a finalidade de promover a cultura do estado Maranhão.
+#### ⚠ Este projeto ganhou uma versão atualizada no repositório: https://github.com/gc-barros/eguas-siow
 #### 🔗 Confira: https://eguassiow.netlify.app/
 <br>
 
